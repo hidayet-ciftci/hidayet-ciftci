@@ -26,10 +26,21 @@ Backend-focused Software Developer passionate about building scalable web applic
 ## 🌐 Connect With Me
 
 <p align="left">
+
+<a href="mailto:hidayetcft@gmail.com">
+<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
 <a href="https://www.linkedin.com/in/hidayet-ciftci/" target="_blank">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
+
+
+
 </p>
+
+**📧 Email:** hidayetcft@gmail.com
+
 
 ---
 
