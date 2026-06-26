@@ -125,26 +125,6 @@ Computer vision project using **TensorFlow Lite**, **Python**, **OpenCV**, and *
 
 # 📊 GitHub Stats
 
-![](https://github-readme-stats.vercel.app/api?username=hidayet-ciftci&show_icons=true&theme=github_dark)
-
 ![](https://github-readme-streak-stats.herokuapp.com/?user=hidayet-ciftci&theme=github-dark)
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=hidayet-ciftci&layout=compact&theme=github_dark)
-
----
-
-## 🏆 GitHub Trophies
-
-![](https://github-profile-trophy.vercel.app/?username=hidayet-ciftci&theme=algolia&no-frame=true&margin-w=15)
-
----
-
-## 📈 Contribution Graph
-
-![](https://github-readme-activity-graph.vercel.app/graph?username=hidayet-ciftci&theme=github-compact)
-
----
-
-## 💡 Quote
-
-> *"First, solve the problem. Then, write the code."* — John Johnson
