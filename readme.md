@@ -1,4 +1,3 @@
-<img src="https://vercel.app" width="100%"/>
 # 💫 About Me:
 full stack developer<br>
 
