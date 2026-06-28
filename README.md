@@ -1,7 +1,7 @@
 <h1 align="center">Merhaba 👋 Ben Hidayet Çiftçi</h1>
 
 <h3 align="center">
-Bilgisayar Mühendisiyim • Full-Stack Developer • AI Enthusiast
+Bilgisayar Mühendisi • Full-Stack Developer • AI Enthusiast
 </h3>
 
 <p align="center">
@@ -18,7 +18,7 @@ Bilgisayar Mühendisiyim • Full-Stack Developer • AI Enthusiast
 
 💼 ASP.NET Core, React, Next.js ve React Native ile web ve mobil uygulamalar geliştiriyorum.
 
-🤖 Yapay zekâ destekli uygulamalar, RAG sistemleri ve bilgisayarlı görü alanlarına ilgi duyuyorum.
+🤖 Yapay zekâ destekli uygulamalar ve RAG sistemleri alanlarına ilgi duyuyorum.
 
 🚀 Öğrenmeye açık, sürdürülebilir ve ölçeklenebilir yazılımlar geliştirmeye odaklanıyorum.
 
