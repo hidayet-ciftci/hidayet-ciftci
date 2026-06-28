@@ -102,9 +102,9 @@ Python, OpenCV, TensorFlow Lite, Raspberry Pi ve Arduino kullanılarak geliştir
 
 
 <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hidayet-ciftci&layout=compact&theme=github_dark&hide_border=true"/>
-</p>
 
-<p align="center">
+
+
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=hidayet-ciftci&theme=github-dark&hide_border=true"/>
 </p>
 
