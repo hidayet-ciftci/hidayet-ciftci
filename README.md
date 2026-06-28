@@ -125,5 +125,3 @@ Python, OpenCV, TensorFlow Lite, Raspberry Pi ve Arduino kullanılarak geliştir
 </p>
 
 📧 **E-posta:** hidayetcft@gmail.com
-
-📱 **Telefon:** +90 545 832 53 48
